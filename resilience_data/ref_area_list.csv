@@ -1,0 +1,40 @@
+Country,ISO2,ISO3,Is_NATO
+Europe,U2,Eur,yes
+Albania,AL,ALB,yes
+Austria,AT,AUT,no
+Belgium,BE,BEL,yes
+Bulgaria,BG,BGR,yes
+Canada,CA,CAN,yes
+Croatia,HR,HRV,yes
+Cyprus,CY,CYP,no
+Czechia,CZ,CZE,yes
+Denmark,DK,DNK,yes
+Estonia,EE,EST,yes
+Finland,FI,FIN,yes
+France,FR,FRA,yes
+Germany,DE,DEU,yes
+Greece,GR,GRC,yes
+Hungary,HU,HUN,yes
+Iceland,IS,ISL,yes
+Ireland,IE,IRL,no
+Italy,IT,ITA,yes
+Latvia,LV,LVA,yes
+Liechtenstein,LI,LIE,no
+Lithuania,LT,LTU,yes
+Luxembourg,LU,LUX,yes
+Malta,MT,MLT,no
+Montenegro,ME,MNE,yes
+Netherlands,NL,NLD,yes
+North Macedonia,MK,MKD,yes
+Norway,NO,NOR,yes
+Poland,PL,POL,yes
+Portugal,PT,PRT,yes
+Romania,RO,ROU,yes
+Slovakia,SK,SVK,yes
+Slovenia,SI,SVN,yes
+Spain,ES,ESP,yes
+Sweden,SE,SWE,yes
+Switzerland,CH,CHE,no
+Turkey,TR,TUR,yes
+United Kingdom,GB,GBR,yes
+United States,US,USA,yes
